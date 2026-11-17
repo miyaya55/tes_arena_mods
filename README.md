@@ -1,10 +1,12 @@
 # TES Arena 向けの非公式MOD
 
 「日本語化」0.40 は、Steam 版の The Elder Scrolls: Arena を日本語で遊べるようにする、非公式のファン翻訳・改造です。日本語化に加え、地図や買い物の操作改善、戦闘の調整、依頼や自宅の追加などを含みます。
-最後まで通しでクリアは確認していますが、問題があればissuesに書いていただくと、時々みて対処するかもしれないです。
-Githubで画像を載せる手順が面倒だったので、
-https://note.com/mimimi241/n/nb568b916d2d2
-に主な機能の追加・変更を書いてます。
+
+最後まで通しでクリアできることは確認しています。問題があれば [Issues](https://github.com/miyaya55/tes_arena_mods/issues) に書いていただければ、時々見て対処するかもしれません。
+
+GitHub に画像を載せる手順が面倒だったので、主な機能の追加・変更は note に書いています。
+
+[Claude CodeでTES ArenaのModを作成した（note）](https://note.com/mimimi241/n/nb568b916d2d2)
 
 
 ## 入っているもの
